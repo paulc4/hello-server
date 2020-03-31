@@ -8,7 +8,7 @@ To build:
 mvn package
 ```
 
-Shoud create an executable jar in target.  Run it:
+Should create an executable jar in target.  Run it:
 
 ```sh
 java -jar target/hello-server-1.0.0.jar
