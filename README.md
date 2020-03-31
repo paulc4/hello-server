@@ -1,8 +1,10 @@
 # Hello Server
 
-You will need Docker and Java installed to run this sdemo.
+You will need Docker and Java JDK installed to run this sdemo.
 
-* OpenJDK is available here: https://www.azul.com/downloads/zulu.  Enter your platform and processor size.
+* OpenJDK is available here: https://www.azul.com/downloads/zulu.
+  * Scroll down to _Zulu CommunityTM Downloads_
+  * Enter Java version, your platform and processor size.
 
 * [Docker for Desktop](https://www.docker.com/products/docker-desktop) is an easy option for Windows o MAcOS and has a one-click option to run Kubernetes as well.
 
